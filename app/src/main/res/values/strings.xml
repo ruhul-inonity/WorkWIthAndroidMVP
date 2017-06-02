@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WorkWithAndroidMVP</string>
+    <string name="github_username">github username</string>
+    <string name="password_hint">password hint</string>
+    <string name="submit">submit</string>
+</resources>
